@@ -59,4 +59,4 @@ This program is based on the Encryption-Decryption project.
 License
 -------
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/Spd11/Project--Encryption-Decryption/blob/master/LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/Spd11/Project--Encryption-Decryption/blob/main/LICENSE) for details.
